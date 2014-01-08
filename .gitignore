@@ -5,3 +5,9 @@ target/
 /spring-rest/build/
 /spring-rest/target/
 *.log
+*.iml
+*.ipr
+*.iws
+*/.classpath
+*/.project
+*/.settings
