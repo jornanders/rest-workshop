@@ -1,0 +1,7 @@
+.gradle/1.*/
+*/.gradle/1.*/
+/build/
+target/
+/spring-rest/build/
+/spring-rest/target/
+*.log

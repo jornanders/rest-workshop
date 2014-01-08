@@ -1,0 +1,5 @@
+apply plugin: 'java'
+
+allprojects {
+    task hello << { task -> println "I'm $task.project.name" }
+}
